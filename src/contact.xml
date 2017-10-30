@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 导包 dom4j  jaxen -->
+<root> 
+  <contact id="0cff1f08-44ef-453b-a62a-b6177fd9ddf0"> 
+    <name>666</name>  
+    <phone>666</phone> 
+  </contact> 
+</root>
